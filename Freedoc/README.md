@@ -1,7 +1,5 @@
 <h1> THP 24/10/2019 : Projet FreeDoc <h1>
 
-
-
 <h2> 1. Thème  </h2>
 
 <p> Création du futur concurrent de Doctolib ! </p>
@@ -10,14 +8,14 @@
 
 https://www.thehackingproject.org/dashboard/courses/1/weeks/4/days/4?locale=fr </p>
 
-<h2> 1. Installation </h2>
+<h2> Installation </h2>
 
 > git clone https://github.com/140ch204/18_FreeDoc.git
 >
 > cd Freedoc
 >
 
-<h2> 1. Vérification : </h2>
+<h2> Vérification : </h2>
 
 La table doctors a été remplie grâce à Faker : 
 Pour consulter son contenu : 
@@ -33,7 +31,6 @@ Pour consulter son contenu :
 > tp HaveSpecialty.all[2].doctor
 >
 >
-
 
 SQL, rails, table_print, Faker 
 
