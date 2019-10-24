@@ -1,6 +1,6 @@
 <h1> THP 24/10/2019 : Projet FreeDoc <h1>
 
-<h2> 1. Thème  </h2>
+<h2> Thème  </h2>
 
 <p> Création du futur concurrent de Doctolib ! </p>
 
