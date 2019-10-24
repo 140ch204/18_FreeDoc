@@ -1,24 +1,26 @@
-# README
+<h1> THP 24/10/2019 : Projet FreeDoc <h1>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<p> Création du futur concurrent de Doctolib ! </p>
 
-Things you may want to cover:
+Gem rajoutée : table_print et faker 
 
-* Ruby version
+<h2> 1. Pour afficher le contenu de la table doctors : </h2>
 
-* System dependencies
+La table doctors a été remplie grâce à Faker : 
+Pour consulter son contenu : 
 
-* Configuration
+> rails c
+>
+> tp Doctor.all
+>
+> tp Patient.all
+>
+> tp Appointment.all
+>
+> tp HaveSpecialty.all[2].doctor
+>
+>
 
-* Database creation
+<h2> Compétences </h2>
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+SQL, rails, table_print, Faker 
