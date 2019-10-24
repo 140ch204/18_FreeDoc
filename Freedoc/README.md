@@ -32,7 +32,10 @@ Pour consulter son contenu :
 >
 >
 
+<h2> Gem rajoutée </h2>
+
 SQL, rails, table_print, Faker 
 
 <h2> Gem rajoutée </h2>
+
  table_print et faker 
